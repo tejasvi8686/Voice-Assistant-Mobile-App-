@@ -11,6 +11,9 @@
   "include": [
     "**/*.ts",
     "**/*.tsx",
+    "**/*.js",
+    "**/*.jsx",
+    "next-env.d.ts",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
   ]
